@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartosz
 - 👀 I’m interested in automotive, programming and alcohol.
-- 🌱 I’m currently learning django.
+- 🌱 I’m currently learning django with react.
 - 💞️ I’m looking to collaborate on web pages.
 - 📫 How to reach me bartosz.strzemieczny@icloud.com
 
